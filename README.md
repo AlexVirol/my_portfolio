@@ -1,2 +1,3 @@
-# my_portfolio
-# This is my portfolio repository
+### my_portfolio
+# this is my portfolio repository
+Hello, welcome to my portfolio. My name is Alex and I am a beginner illustrator, concept artist and digital artist. Here in this repository are all my artworks, illustrations and sketches. Also I am planning on creating comic books and making games (video games, mobile games and visual novels). In my free time I enjoy reading books, comics, mangas, playing video games and visual novels, playing guitar, listening to music and etc. You can also find me on Devianart, Instagram, Behance and GDevelop 5. Thank you for your attention and have a nice day!)
